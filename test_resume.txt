@@ -1,1 +1,0 @@
-Python React FastAPI SQL Machine Learning
